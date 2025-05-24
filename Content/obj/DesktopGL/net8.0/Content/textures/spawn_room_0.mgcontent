@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>/Users/khantthuaung/Desktop/Cubie/Content/textures/spawn_room.tsx</SourceFile>
+  <SourceTime>2025-05-23T18:25:10.4017502+08:00</SourceTime>
+  <DestFile>/Users/khantthuaung/Desktop/Cubie/Content/bin/DesktopGL/Content/textures/spawn_room_0.xnb</DestFile>
+  <DestTime>2025-05-23T19:40:08.9354571+08:00</DestTime>
+  <Importer>TiledMapTilesetImporter</Importer>
+  <ImporterTime>2025-01-11T01:49:08+08:00</ImporterTime>
+  <Processor>TiledMapTilesetProcessor</Processor>
+  <ProcessorTime>2025-01-11T01:49:08+08:00</ProcessorTime>
+  <Dependencies>
+    <string>/Users/khantthuaung/Desktop/Cubie/Content/textures/floor.png</string>
+  </Dependencies>
+  <BuildAsset>
+    <string>/Users/khantthuaung/Desktop/Cubie/Content/bin/DesktopGL/Content/textures/floor_0.xnb</string>
+  </BuildAsset>
+  <BuildOutput />
+</PipelineBuildEvent>

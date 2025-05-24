@@ -1,0 +1,36 @@
+
+#----------------------------- Global Properties ----------------------------#
+
+/outputDir:bin/$(Platform)
+/intermediateDir:obj/$(Platform)
+/platform:DesktopGL
+/config:
+/profile:Reach
+/compress:False
+
+#-------------------------------- References --------------------------------#
+
+/reference:../pipeline-references/MonoGame.Extended.Content.Pipeline.dll
+
+#---------------------------------- Content ---------------------------------#
+
+#begin ../../Maps/training.tmx
+/importer:TiledMapImporter
+/processor:TiledMapProcessor
+/build:../../Maps/training.tmx;training.tmx
+
+#begin bedroom.tmx
+/importer:TiledMapImporter
+/processor:TiledMapProcessor
+/build:bedroom.tmx
+
+#begin register.tmx
+/importer:TiledMapImporter
+/processor:TiledMapProcessor
+/build:register.tmx
+
+#begin training.tmx
+/importer:TiledMapImporter
+/processor:TiledMapProcessor
+/build:training.tmx
+

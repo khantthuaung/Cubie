@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/Users/khantthuaung/Desktop/Cubie/Content/../../Maps/training.tmx</File>
+    <File>/Users/khantthuaung/Desktop/Cubie/Content/bedroom.tmx</File>
+    <File>/Users/khantthuaung/Desktop/Cubie/Content/register.tmx</File>
+    <File>/Users/khantthuaung/Desktop/Cubie/Content/training.tmx</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>training.tmx</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
