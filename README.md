@@ -44,4 +44,4 @@ A 2D Rubik’s Cube-themed simulation game built in MonoGame, where players trai
 ### Build & Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/RubiksCubeSim.git
+   git clone https://github.com/khantthuaung/Cubie.git
