@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>/Users/khantthuaung/Desktop/Cubie/Content/competition.tmx</SourceFile>
+  <SourceTime>2025-06-04T23:51:27.3694142+08:00</SourceTime>
+  <DestFile>/Users/khantthuaung/Desktop/Cubie/Content/bin/DesktopGL/Content/competition.xnb</DestFile>
+  <DestTime>2025-06-04T23:52:23.2908224+08:00</DestTime>
+  <Importer>TiledMapImporter</Importer>
+  <ImporterTime>2025-01-11T01:49:08+08:00</ImporterTime>
+  <Processor>TiledMapProcessor</Processor>
+  <ProcessorTime>2025-01-11T01:49:08+08:00</ProcessorTime>
+  <Dependencies>
+    <string>/Users/khantthuaung/Desktop/Cubie/Content/textures/conference.png</string>
+    <string>/Users/khantthuaung/Desktop/Cubie/Content/textures/spawn_room.tsx</string>
+    <string>/Users/khantthuaung/Desktop/Cubie/Content/textures/3dwalls.png</string>
+    <string>/Users/khantthuaung/Desktop/Cubie/Content/textures/classroom.png</string>
+  </Dependencies>
+  <BuildAsset>
+    <string>/Users/khantthuaung/Desktop/Cubie/Content/bin/DesktopGL/Content/textures/conference_0.xnb</string>
+    <string>/Users/khantthuaung/Desktop/Cubie/Content/bin/DesktopGL/Content/textures/spawn_room_0.xnb</string>
+    <string>/Users/khantthuaung/Desktop/Cubie/Content/bin/DesktopGL/Content/textures/3dwalls_0.xnb</string>
+    <string>/Users/khantthuaung/Desktop/Cubie/Content/bin/DesktopGL/Content/textures/classroom_0.xnb</string>
+  </BuildAsset>
+  <BuildOutput />
+</PipelineBuildEvent>

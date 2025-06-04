@@ -5,27 +5,25 @@ namespace Cubie;
 
 public class DynamicMap : Map
 {
-    public enum Location
-    {
-        Bedroom,
-        Training,
-        Competition,
-        Register,
-        MainMenu
-    }
-    public DynamicMap(Location location) : base(GetMapName(location))
+    public DynamicMap(Globals.Location location) : base(GetMapName(location))
     {
     }
-    private static string GetMapName(Location location)
+    public static string GetMapName(Globals.Location location)
     {
-        return location switch
+        switch (location)
         {
-            Location.Bedroom => "bedroom",
-            Location.Training => "training",
-            Location.Competition => "competition",
-            Location.Register => "register",
-            _ => "bedroom"
-        };
+            case Globals.Location.Bedroom:
+                return "bedroom";
+            case Globals.Location.Training:
+                return "training";
+            case Globals.Location.Competition:
+                return "competition";
+            case Globals.Location.Register:
+                return "register";
+            default:
+                return "bedroom";
+        }
     }
+    
 
 }

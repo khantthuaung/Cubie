@@ -46,3 +46,13 @@
 /Users/khantthuaung/Desktop/Cubie/bin/Debug/net8.0/Content/textures/gym_0.xnb
 /Users/khantthuaung/Desktop/Cubie/bin/Debug/net8.0/Content/textures/halloween_0.xnb
 /Users/khantthuaung/Desktop/Cubie/bin/Debug/net8.0/Content/training.xnb
+/Users/khantthuaung/Desktop/Cubie/obj/Debug/net8.0/Cubie.sourcelink.json
+/Users/khantthuaung/Desktop/Cubie/bin/Debug/net8.0/Content/player_idle.xnb
+/Users/khantthuaung/Desktop/Cubie/bin/Debug/net8.0/Content/player_run.xnb
+/Users/khantthuaung/Desktop/Cubie/bin/Debug/net8.0/Content/competition.xnb
+/Users/khantthuaung/Desktop/Cubie/bin/Debug/net8.0/Content/textures/conference_0.xnb
+/Users/khantthuaung/Desktop/Cubie/bin/Debug/net8.0/Content/conference.xnb
+/Users/khantthuaung/Desktop/Cubie/bin/Debug/net8.0/Content/edward.xnb
+/Users/khantthuaung/Desktop/Cubie/bin/Debug/net8.0/Content/lucy.xnb
+/Users/khantthuaung/Desktop/Cubie/bin/Debug/net8.0/Content/molly.xnb
+/Users/khantthuaung/Desktop/Cubie/bin/Debug/net8.0/Content/rob.xnb
