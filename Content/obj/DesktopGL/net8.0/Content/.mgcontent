@@ -5,9 +5,14 @@
   <Config />
   <SourceFiles>
     <File>/Users/khantthuaung/Desktop/Cubie/Content/bedroom.tmx</File>
+    <File>/Users/khantthuaung/Desktop/Cubie/Content/button.png</File>
+    <File>/Users/khantthuaung/Desktop/Cubie/Content/close.png</File>
     <File>/Users/khantthuaung/Desktop/Cubie/Content/competition.tmx</File>
     <File>/Users/khantthuaung/Desktop/Cubie/Content/conference.png</File>
+    <File>/Users/khantthuaung/Desktop/Cubie/Content/dialog.png</File>
     <File>/Users/khantthuaung/Desktop/Cubie/Content/edward.png</File>
+    <File>/Users/khantthuaung/Desktop/Cubie/Content/exclamation.png</File>
+    <File>/Users/khantthuaung/Desktop/Cubie/Content/font.spritefont</File>
     <File>/Users/khantthuaung/Desktop/Cubie/Content/lucy.png</File>
     <File>/Users/khantthuaung/Desktop/Cubie/Content/molly.png</File>
     <File>/Users/khantthuaung/Desktop/Cubie/Content/player_idle.png</File>
@@ -17,6 +22,11 @@
     <File>/Users/khantthuaung/Desktop/Cubie/Content/training.tmx</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

@@ -56,3 +56,9 @@
 /Users/khantthuaung/Desktop/Cubie/bin/Debug/net8.0/Content/lucy.xnb
 /Users/khantthuaung/Desktop/Cubie/bin/Debug/net8.0/Content/molly.xnb
 /Users/khantthuaung/Desktop/Cubie/bin/Debug/net8.0/Content/rob.xnb
+/Users/khantthuaung/Desktop/Cubie/bin/Debug/net8.0/Content/button.xnb
+/Users/khantthuaung/Desktop/Cubie/bin/Debug/net8.0/Content/dialog.xnb
+/Users/khantthuaung/Desktop/Cubie/bin/Debug/net8.0/Content/font.xnb
+/Users/khantthuaung/Desktop/Cubie/bin/Debug/net8.0/Content/close.xnb
+/Users/khantthuaung/Desktop/Cubie/bin/Debug/net8.0/Content/brown_dialog.xnb
+/Users/khantthuaung/Desktop/Cubie/bin/Debug/net8.0/Content/exclamation.xnb

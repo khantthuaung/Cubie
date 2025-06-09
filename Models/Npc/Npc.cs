@@ -62,16 +62,20 @@ public class Npc : Sprite
         throw new System.NotImplementedException();
     }
 
-    public override void Update(GameTime gt, Map currentMap)
+    public override void Update(GameTime gt, Map currentMap,List<Npc> npcs)
     {
         throw new System.NotImplementedException();
     }
-    public void NpcCollision(RectangleF playerBounds)
+    public Vector2 Position
     {
-        
+        get{ return _position; }   
+    }
+    public Globals.Location GetLocation
+    {
+        get { return _location; }
     }
     public Rectangle GetBounds()
     {
-        return new Rectangle((int)_position.X, (int)_position.Y+48, 32, 48);
+        return new Rectangle((int)_position.X, (int)_position.Y + 48, 32, 48);
     }
 }

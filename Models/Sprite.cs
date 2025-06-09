@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 
@@ -11,6 +12,6 @@ public abstract class Sprite
     {
         _texture = texture;
     }
-    public abstract void Update(GameTime gt,Map currentMap);
+    public abstract void Update(GameTime gt,Map currentMap,List<Npc> npcs);
     public abstract void Draw(Vector2 pos);
 }

@@ -1,18 +1,7 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"/Users/khantthuaung/Desktop/Cubie/Content/bedroom.tmx","/Users/khantthuaung/Desktop/Cubie/Content/bin/DesktopGL/Content/bedroom.xnb","TiledMapProcessor","TiledMapContentItem",12407,8407,0.166402
-"/Users/khantthuaung/Desktop/Cubie/Content/competition.tmx","/Users/khantthuaung/Desktop/Cubie/Content/bin/DesktopGL/Content/competition.xnb","TiledMapProcessor","TiledMapContentItem",10154,8141,0.002467
-"/Users/khantthuaung/Desktop/Cubie/Content/conference.png","/Users/khantthuaung/Desktop/Cubie/Content/bin/DesktopGL/Content/conference.xnb","TextureProcessor","Texture2DContent",4696,196693,0.116118
-"/Users/khantthuaung/Desktop/Cubie/Content/edward.png","/Users/khantthuaung/Desktop/Cubie/Content/bin/DesktopGL/Content/edward.xnb","TextureProcessor","Texture2DContent",4714,196693,0.008598
-"/Users/khantthuaung/Desktop/Cubie/Content/lucy.png","/Users/khantthuaung/Desktop/Cubie/Content/bin/DesktopGL/Content/lucy.xnb","TextureProcessor","Texture2DContent",4155,196693,0.005058
-"/Users/khantthuaung/Desktop/Cubie/Content/molly.png","/Users/khantthuaung/Desktop/Cubie/Content/bin/DesktopGL/Content/molly.xnb","TextureProcessor","Texture2DContent",4448,196693,0.005568
-"/Users/khantthuaung/Desktop/Cubie/Content/player_idle.png","/Users/khantthuaung/Desktop/Cubie/Content/bin/DesktopGL/Content/player_idle.xnb","TextureProcessor","Texture2DContent",4467,196693,0.152168
-"/Users/khantthuaung/Desktop/Cubie/Content/player_run.png","/Users/khantthuaung/Desktop/Cubie/Content/bin/DesktopGL/Content/player_run.xnb","TextureProcessor","Texture2DContent",6448,196693,0.009346
-"/Users/khantthuaung/Desktop/Cubie/Content/register.tmx","/Users/khantthuaung/Desktop/Cubie/Content/bin/DesktopGL/Content/register.xnb","TiledMapProcessor","TiledMapContentItem",10701,8188,0.002082
-"/Users/khantthuaung/Desktop/Cubie/Content/rob.png","/Users/khantthuaung/Desktop/Cubie/Content/bin/DesktopGL/Content/rob.xnb","TextureProcessor","Texture2DContent",4084,196693,0.035394
-"/Users/khantthuaung/Desktop/Cubie/Content/textures/3dwalls.png","/Users/khantthuaung/Desktop/Cubie/Content/bin/DesktopGL/Content/textures/3dwalls_0.xnb","TextureProcessor","Texture2DContent",75475,5800021,0.201668
-"/Users/khantthuaung/Desktop/Cubie/Content/textures/classroom.png","/Users/khantthuaung/Desktop/Cubie/Content/bin/DesktopGL/Content/textures/classroom_0.xnb","TextureProcessor","Texture2DContent",57277,2228309,0.040891
-"/Users/khantthuaung/Desktop/Cubie/Content/textures/conference.png","/Users/khantthuaung/Desktop/Cubie/Content/bin/DesktopGL/Content/textures/conference_0.xnb","TextureProcessor","Texture2DContent",16144,786517,0.104057
-"/Users/khantthuaung/Desktop/Cubie/Content/textures/floor.png","/Users/khantthuaung/Desktop/Cubie/Content/bin/DesktopGL/Content/textures/floor_0.xnb","TextureProcessor","Texture2DContent",72913,2457685,0.14657
-"/Users/khantthuaung/Desktop/Cubie/Content/textures/gym.png","/Users/khantthuaung/Desktop/Cubie/Content/bin/DesktopGL/Content/textures/gym_0.xnb","TextureProcessor","Texture2DContent",64724,2162773,0.123876
-"/Users/khantthuaung/Desktop/Cubie/Content/textures/spawn_room.tsx","/Users/khantthuaung/Desktop/Cubie/Content/bin/DesktopGL/Content/textures/spawn_room_0.xnb","TiledMapTilesetProcessor","TiledMapTilesetContentItem",225,178,0.072677
-"/Users/khantthuaung/Desktop/Cubie/Content/training.tmx","/Users/khantthuaung/Desktop/Cubie/Content/bin/DesktopGL/Content/training.xnb","TiledMapProcessor","TiledMapContentItem",10287,7834,0.002133
+"/Users/khantthuaung/Desktop/Cubie/Content/bedroom.tmx","/Users/khantthuaung/Desktop/Cubie/Content/bin/DesktopGL/Content/bedroom.xnb","TiledMapProcessor","TiledMapContentItem",12407,8407,0.12003
+"/Users/khantthuaung/Desktop/Cubie/Content/button.png","/Users/khantthuaung/Desktop/Cubie/Content/bin/DesktopGL/Content/button.xnb","TextureProcessor","Texture2DContent",4973,41685,0.084541
+"/Users/khantthuaung/Desktop/Cubie/Content/close.png","/Users/khantthuaung/Desktop/Cubie/Content/bin/DesktopGL/Content/close.xnb","TextureProcessor","Texture2DContent",373,4693,0.07827
+"/Users/khantthuaung/Desktop/Cubie/Content/dialog.png","/Users/khantthuaung/Desktop/Cubie/Content/bin/DesktopGL/Content/dialog.xnb","TextureProcessor","Texture2DContent",90360,2109781,0.03791
+"/Users/khantthuaung/Desktop/Cubie/Content/exclamation.png","/Users/khantthuaung/Desktop/Cubie/Content/bin/DesktopGL/Content/exclamation.xnb","TextureProcessor","Texture2DContent",234,597,0.079758
+"/Users/khantthuaung/Desktop/Cubie/Content/font.spritefont","/Users/khantthuaung/Desktop/Cubie/Content/bin/DesktopGL/Content/font.xnb","FontDescriptionProcessor","SpriteFontContent",500,13337,0.121977

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cubie")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f62952175010d646365e6fa6a52832df13e5d53")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7c59e798e2eab74b0913aba4e4ca553b8343d62")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cubie")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cubie")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

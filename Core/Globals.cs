@@ -10,13 +10,13 @@ public static class Globals
     private static ContentManager _content;
     public static float TotalSeconds;
     public static Texture2D Pixel;
+    private static GraphicsDevice _graphics;
     public enum Location
     {
         Bedroom,
         Training,
         Competition,
         Register,
-        MainMenu
     }
     public enum Direction
     {
@@ -25,6 +25,12 @@ public static class Globals
         Left = 2,
         Down = 3
     }
+    public enum Difficulty
+    {
+        Easy,
+        Medium,
+        Hard
+    };
     //properties
     public static SpriteBatch SpriteBatch
     {
@@ -36,7 +42,12 @@ public static class Globals
         get { return _content; }
         set { _content = value; }
     }
-    public static void Update(GameTime gt){ TotalSeconds = (float)gt.ElapsedGameTime.TotalSeconds; }
+    public static GraphicsDevice GraphicsDevice
+    {
+        get { return _graphics; }
+        set { _graphics = value; }
+    }
+    public static void Update(GameTime gt) { TotalSeconds = (float)gt.ElapsedGameTime.TotalSeconds; }
     //readonly
 
 }
